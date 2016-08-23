@@ -1,7 +1,7 @@
 # new-post
 
 <p align="center">
-    A packaged and modified version of <a href="https://github.com/jbranchaud">jbranchaud</a>'s <a href="https://github.com/jbranchaud/mybin/blob/master/jekyll-post">script</a> for generating a new jekyll post.</p>
+    A packaged and modified version of <a href="https://github.com/jbranchaud">jbranchaud</a>'s <a href="https://github.com/jbranchaud/mybin/blob/master/jekyll-post">script</a> for generating a new jekyll post.
     <img src="http://stream1.gifsoup.com/view8/4670745/grey-goo-o.gif">
 </p>
 
