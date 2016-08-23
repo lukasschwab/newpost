@@ -128,7 +128,6 @@ def main():
             f.write('title: ' + title + '\n')
             f.write('summary:\n')
             f.write('status: draft\n')
-            f.write('hn-discussion:\n')
             if tags:
                 f.write('tags:\n')
                 for tag in tags:
